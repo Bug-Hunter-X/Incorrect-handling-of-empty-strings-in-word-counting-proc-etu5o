@@ -1,0 +1,2 @@
+# Tcl word counter bug
+This repository contains a Tcl procedure that incorrectly handles empty strings when counting words. The bug is described in the bug.tcl file, and a solution is provided in bugSolution.tcl.
